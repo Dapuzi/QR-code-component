@@ -1,0 +1,54 @@
+
+.attribution {
+  position: fixed;
+  font-size: 11px;
+  text-align: center;
+  margin-top: 45%;
+  margin-left: 40%;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+.main_backgrounnd {
+  width: 250px;
+  height: 350px;
+  background-color: hsl(0, 0%, 100%);
+  position: absolute;
+  margin-top: 12%;
+  margin-left: 40%;
+  border-radius: 15px;
+
+}
+
+.bar_code{
+  height: 60%;
+  width: 90%;
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 5%;
+  border-radius: 15px;
+}
+
+.first_line{
+  position: absolute;
+  margin-top: 95%;
+  margin-left: 10%;
+  margin-right: 5%;
+  text-align: center;
+  font-family: outfit;
+  font-weight: 400,700;
+  font-size: 15px;
+}
+
+.second_line{
+  position: absolute;
+  margin-top: 110%;
+  margin-left: 5%;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+}
